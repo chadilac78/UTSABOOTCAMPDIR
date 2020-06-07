@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Chad Worthan",
+    "role": "Student",
+    "Instructor": "Jeremy Henry",
+    "TA": "David Garza"
+  },
+  {
+    "id": 2,
+    "name": "Chris Ducharme",
+    "role": "Student",
+    "Instructor": "Jeremy Henry",
+    "TA": "David Garza"
+  },
+  {
+    "id": 3,
+    "name": "Kevin Cox",
+    "role": "Student",
+    "Instructor": "Jeremy Henry",
+    "TA": "David Garza"
+  },
+  {
+    "id": 4,
+    "name": "Jeremy Henry",
+    "role": "Instructor",
+    "Instructor": "NA",
+    "TA": "NA"
+  },
+  {
+    "id": 5,
+    "name": "David Garza",
+    "role": "TA",
+    "Instructor": "Jeremy Henry",
+    "TA": "NA"
+  },
+  {
+    "id": 6,
+    "name": "Dustin Aldandzes",
+    "role": "TA",
+    "Instructor": "Jeremy Henry",
+    "TA": "NA"
+  },
+  {
+    "id": 7,
+    "name": "Doug Ritchie",
+    "role": "Student",
+    "Instructor": "Jeremy Henry",
+    "TA": "Dustin Aldanzes"
+  },
+  {
+    "id": 8,
+    "name": "Kristy Farmer",
+    "role": "Student",
+    "Instructor": "Jermy Henry",
+    "TA": "Dustin Aldandzes"
+  },
+  {
+    "id": 9,
+    "name": "Kristian Rodriguez",
+    "role": "Student",
+    "Instructor": "Jeremy Henry",
+    "TA": "Dustin Aldandzes"
+  },
+  {
+    "id": 10,
+    "name": "Sofia Mejia",
+    "role": "Student",
+    "Instructor": "Jeremy Henry",
+    "TA": "David Garza"
+  }
+]
